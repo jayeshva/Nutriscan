@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1039068822521",
+    "project_id": "nutricheck-60b65",
+    "storage_bucket": "nutricheck-60b65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039068822521:android:4b707af39af06a565a5b28",
+        "android_client_info": {
+          "package_name": "com.example.fscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039068822521-aqg2e9kalvijmsdieufuhm8hopd4t7lf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fscan",
+            "certificate_hash": "669513e14b72cc0ef290135ea86a0116adc5276d"
+          }
+        },
+        {
+          "client_id": "1039068822521-5vetutgg8t624ck8se6u0v4aiq43968f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIRt9M5exuWWn3qPVDVFMv__HbECedRxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039068822521-5vetutgg8t624ck8se6u0v4aiq43968f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
